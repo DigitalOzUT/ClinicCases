@@ -1,4 +1,4 @@
-Oz Law is a fork of 
+Oz Law is a fork of:
 # ClinicCases
 
 ClinicCases is an open source case management system designed
