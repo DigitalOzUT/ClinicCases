@@ -1,3 +1,4 @@
+Oz Law is a fork of 
 # ClinicCases
 
 ClinicCases is an open source case management system designed
@@ -28,7 +29,7 @@ have this installed.).  Used for sending notifications to users.
 Either download the zip file from github or run the following command
 in your terminal
 
-	git clone https://github.com/judsonmitchell/ClinicCases.git
+	git clone https://github.com/digitalozut/ClinicCases.git
 
 Please see detailed install instructions in the _INSTALL directory
 
